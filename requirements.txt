@@ -2,3 +2,4 @@ streamlit
 openai
 streamlit-folium
 Nominatim
+geopy
